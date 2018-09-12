@@ -2,4 +2,4 @@
 
 Vamos a ver si esto funciona
 
-# Este titulo deberia ser mas chico que el de arriba
+# Este titulo deberia ser mas grande que el de arriba
